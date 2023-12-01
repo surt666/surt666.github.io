@@ -1,5 +1,2 @@
----
-layout: default
----
-
+# Start
 Hello World
